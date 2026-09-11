@@ -1,0 +1,12 @@
+[
+  "gender",
+  "ug_degree",
+  "specialization",
+  "interests",
+  "skills",
+  "has_certification",
+  "certification_title",
+  "is_working",
+  "masters_field",
+  "cgpa"
+]
