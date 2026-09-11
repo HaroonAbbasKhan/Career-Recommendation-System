@@ -209,7 +209,7 @@ Software Engineer · Full Stack Developer · Mobile App Developer · Data Scient
 ## 👤 Author
 
 **Haroon Abbas**
-- GitHub: [@HaroonAbbasKhan](https://github.com/HaroonAbbasKhan)
+- GitHub: [@RealHaroon](https://github.com/HaroonAbbasKhan)
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
